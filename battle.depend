@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1530667563 source:c:\users\wxh\documents\cpp\battle\main.cpp
+	<windows.h>
+	<windowsx.h>
+	<iostream>
+	<vector>
+	<time.h>
+	"battle.h"
+
+1530708001 c:\users\wxh\documents\cpp\battle\battle.h
+	<time.h>
+	<stdlib.h>
+	<vector>
+
